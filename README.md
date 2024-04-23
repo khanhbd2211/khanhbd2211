@@ -5,8 +5,8 @@
 | --- | --- | --- |
 <h2 align="center">👽 Where to find me 👽</h2>
 
-- 🔭 I’m currently working on [Corporate DevOps Security Tools | DevSecOps](https://www.youtube.com/watch?v=5CbQyB0dcCA&list=PLAdTNzDIZj_8Gotv6qZoyxOiwu0bdhW-E&pp=gAQBiAQB)
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+- 🔭 I’m currently working on [Corporate DevOps Security Tools | DevSecOps]
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
@@ -14,7 +14,4 @@
 - 💬 Ask me about **DevOps & Cloud DevOps**
 
 - 📫 How to reach me **masteraadi246@gmail.com**
-
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
